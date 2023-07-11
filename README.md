@@ -1,6 +1,6 @@
 # my git project
 
-> my code for the git project
+> my scary merge conflict code
 
 # i'm in the feature
 
